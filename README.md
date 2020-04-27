@@ -59,7 +59,7 @@ introducir los siguientes valores para configurar la conexión a la base de dato
 
 ```
 DB_CONNECTION=mysql
-DB_HOST=127.0.0.1
+DB_HOST=mysql
 DB_PORT=3306
 DB_DATABASE=laravel
 DB_USERNAME=root
